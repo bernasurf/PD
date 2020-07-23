@@ -1,2 +1,2 @@
 # PD
-Projects and Code from created during courses, workshops, bootcamps, etc.
+Projects and Code worked as a result of training, courses, workshops, bootcamps, etc.
